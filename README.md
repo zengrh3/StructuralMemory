@@ -1,6 +1,6 @@
 # On the Structural Memory of LLM Agents
 
-This repository contains the PyTorch implementation for our paper. Further details about MGIGNN can be found in our paper.
+This repository contains the PyTorch implementation for our paper. Further details can be found in our paper.
 
 <p align="center">
   <img src="./figs/overview.png" alt="Model_Framework" width="1000"/>
